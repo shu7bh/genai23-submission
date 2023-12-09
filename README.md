@@ -6,9 +6,9 @@ A MIND DIALOG
 
 Socratic Coders
 ==
-Shubh Agarwal (shu7bh@gmail.com)
-Sharon Kaari Koech (sharonkaari@gmail.com)
-Adnan Mohammed  (fcb.adnan10@gmail.com)
+Shubh Agarwal (shu7bh@gmail.com) \
+Sharon Kaari Koech (sharonkaari@gmail.com) \
+Adnan Mohammed  (fcb.adnan10@gmail.com) \
 Cheng Hsin Liu (chli63170@hbku.edu.qa)
 
 Description
