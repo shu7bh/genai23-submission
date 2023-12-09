@@ -1,21 +1,23 @@
 This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](https://genai23.qcri.org))
 
 
-Write Project Name
+A MIND DIALOG
 ====
 
-Write Team Name:
+Socratic Coders
 ==
-First Member (first_member@email.com)
-Second Memeber (second_member@email.com)
+Shubh Agarwal (shu7bh@gmail.com)
+Sharon Kaari Koech (sharonkaari@gmail.com)
+Adnan Mohammed  (fcb.adnan10@gmail.com)
+Cheng Hsin Liu (chli63170@hbku.edu.qa)
 
 Description
 ==
-This project is a template for submission to QCRI Generative AI Hackathon 2023. It does:
-1. submission should fork this project and update the README
-2. code and data should be contained in this repo
-3. README.md should keep the first and last line with reference to Generative AI Hackathon
-4. submit by Saturday 3:30 with this form [https://forms.office.com/r/PUs9qpVNbf](https://forms.office.com/r/PUs9qpVNbf)
 
+In the file, `chatbot.ipynb`, we have implemented a chatbot using the `gpt-3.5 turbo`. The Chatbot uses RAG model to answer questions.
+
+We call the model twice:
+1. To give us the best question to get the answer from
+2. To give us the answer to the question
 
 This repo is our submission for QCRI Generative AI Hackathon 2023 ([website](https://genai23.qcri.org))
